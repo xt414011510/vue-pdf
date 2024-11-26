@@ -27,5 +27,8 @@
     "pdfjs-dist": "^2.5.207 <2.8.0",
     "vue-resize-sensor": "^2.0.0"
   },
-  "peerDependencies": {}
+  "peerDependencies": {},
+  "publishConfig": {
+    "registry": "http://nexus.unicompayment.com/repository/npm-hosted/"
+  }
 }
